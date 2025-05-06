@@ -1,6 +1,6 @@
  👨‍💻 About Me:
  
-Hello there! I'm Gyamfi John, a passionate Frontend Developer with a knack for turning ideas into reality through elegant and efficient code. My journey in the world of software development has been an exhilarating ride, where I've honed my skills in both front-end and back-end technologies.
+Hello there! I'm Gyamfi John, a passionate Fullstack Engineer with a knack for turning ideas into reality through elegant and efficient code. My journey in software development has been an exciting ride, where I’ve built expertise across both front-end and back-end technologies. I enjoy creating seamless user experiences while ensuring robust and scalable backend systems.
 
 
 # 📦 Toolbox
